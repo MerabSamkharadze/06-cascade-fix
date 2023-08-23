@@ -1,0 +1,13 @@
+.child {
+  font-weight: bold;
+  font-size: 26px;
+}
+.confirm_btn {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+}
+.big {
+  font-size: 46px;
+}
